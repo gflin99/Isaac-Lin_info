@@ -53,7 +53,7 @@ Dedicated to optimizing microbial fermentation processes through the integration
 
 ## Connect with Me
 * **Email:** d11303001@o365.ttu.edu.tw
-* **LinkedIn:** 
+* **LinkedIn:** https://www.linkedin.com/in/isaac-lin-a3923231a  
 * **Focus:** Open to discuss **Bio-AI**, **Smart Fermentation**, and **Time-series modeling**.
 
 ---
