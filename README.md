@@ -21,8 +21,8 @@ Dedicated to optimizing microbial fermentation processes through the integration
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Engineering & Control
-![MATLAB](https://shields.io)
-![SciPy](https://shields.io)
+![MATLAB](https://img.shields.io/badge/MATLAB-e20000?style=flat&logo=mathworks&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -30,7 +30,7 @@ Dedicated to optimizing microbial fermentation processes through the integration
 
 ## 📊 GitHub Status
 <!-- 替換你的 GitHub ID 即可自動顯示動態數據卡片 -->
-![Isaac's GitHub Stats](https://vercel.app)
+![Isaac's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gflin99&show_icons=true&theme=radical)
 
 ---
 
