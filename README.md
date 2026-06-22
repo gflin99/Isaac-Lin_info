@@ -74,13 +74,13 @@ I possess a complete cross-disciplinary scientific trajectory, spanning upstream
 
 ## 🚀 Highlighted Projects
 
-### 📈 [Fermentation-Transformer-Predictor](./dataset/)
+### [Fermentation-Transformer-Predictor](./dataset/)
 **"Latent Feature Extraction & Trajectory Forecasting"**
 *   **The Challenge:** Capturing non-linear metabolic transitions in highly stochastic fermentation environments.
 *   **The Solution:** Leveraged **Autoencoders (AE)** for dimensionality reduction and **Transformer** blocks with Self-Attention to identify critical growth phase turning points.
 *   **Technical Edge:** Engineered a custom data pipeline to transform raw offline analysis into a **3D Tensor structure**, ensuring temporal consistency across batch repeats.
 
-### 🤖 [BioNN-Research-Assistant](https://github.com)
+### [BioNN-Research-Assistant](https://github.com)
 **"Private LLM Deployment & Research Automation"**
 *   **Core:** Orchestrated local LLM environments (Mistral-Nemo, Llama 3, Gemma) using **Ollama** on Ubuntu server.
 *   **Impact:** Developed a Telegram Bot interface for real-time literature synthesis and Python code optimization, streamlining the laboratory research workflow.
@@ -89,15 +89,15 @@ I possess a complete cross-disciplinary scientific trajectory, spanning upstream
 
 ## 🎓 Academic Activities
 
-### 📅 Upcoming Presentation
+### Upcoming Presentation
 *   **2026 BEST Conference** | *International Symposium on Biotechnology and Biochemical Engineering*
     *   **Topic:** Advanced Fermentation Trajectory Prediction using Transformer-based Architectures.
 
-### 📜 Selected Conferences
+### Selected Conferences
 *   **12th Green Sustainable Biotechnology Symposium** (2022) | *Ming Chi University of Technology*
 *   **27th BEST Conference & International Symposium** (2022) | *Biotechnology and Bioengineering*
 
-### 🌏 International Exchange & Collaboration
+### International Exchange & Collaboration
 *   **Tatung University (TTU) - Osaka Institute of Technology (OIT) iPBL Program**
     *   **2024 & 2025 Cohorts** | *International Project-Based Learning*
     *   Engaged in two 14-day intensive exchange programs (Taiwan & Japan), focusing on cross-cultural collaboration and technical problem-solving in engineering contexts.
