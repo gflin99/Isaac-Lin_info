@@ -11,11 +11,11 @@ Dedicated to optimizing microbial fermentation processes through the integration
 > Explore how I bridge advanced Electrical Engineering (Neural Networks) architectures with hands-on, multi-scale Biotechnology (Fermentation) expertise:
 
 *   **[Master's Thesis Project | Fermentation Engineering]**  
-    **[Optimization of Carotenoid Production in *Rhodobacter sphaeroides*](https://github.com)**  
+    **[Optimization of Carotenoid Production in *Rhodobacter sphaeroides*](https://github.com/gflin99/Rhodobacter-sphaeroides-Carotenoid-Production)**  
     *5L Bioreactor, Real-time ORP Kinetic Monitoring, and Fed-batch Strategy.*  
     👉 **[Click here to view 5L fermenter datasets and thesis abstract]**
 *   **[Foundational Wet-Lab Showcase | Pre-Master's Internship]**  
-    **[One-Step Purification of Thermostable Carbonic Anhydrases](https://github.com)**  
+    **[One-Step Purification of Thermostable Carbonic Anhydrases](https://github.com/gflin99/Enzyme-Purification-Portfolio)**  
     *Intensive training in core bioprocess techniques and protein purification (BEST 2022 Poster).*  
     👉 **[Click here to view the thermal purification process and poster]**
 
