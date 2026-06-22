@@ -33,9 +33,9 @@ I possess a complete cross-disciplinary scientific trajectory, spanning upstream
 
 *   **2025 - Present | PhD Candidate (Electrical Engineering | Co-Advised):**  
     Co-advised by my **original Bioprocess Engineering advisor** and a **Professor of Electrical/Computer Engineering**. My research focuses on deploying deep learning (Transformer & GRU) architectures for high-precision time-series forecasting in bioprocesses. By converting multi-variable fermentation data into **3D Tensors**, I aim to construct robust Bioreactor Digital Twins that solve real-world industrial scaling issues and eliminate empirical trial-and-error.
-*   **2022 - 2024 | Master of Science (TTU Graduate Institute of Chemical Engineering & Biotechnology):**  
+*   **2022 - 2023 | Master of Science (TTU Graduate Institute of Chemical Engineering & Biotechnology):**  
     Specialized in process optimization for carotenoid production using *Rhodobacter sphaeroides*. Personally operated **5L industrial-grade bioreactors** and integrated an **Oxidation-Reduction Potential (ORP) electrode** for real-time kinetic monitoring. Successfully engineered a precise fed-batch strategy during metabolic phase transitions, achieving a 3.15-fold yield increase (reaching 26.6 mg/L).
-*   **2022 Summer | Pre-Master's Research Intern (Foundational Bioprocess Techniques):**  
+*   **2021 Summer | Pre-Master's Research Intern (Foundational Bioprocess Techniques):**  
     Joined the Tatung University bio-engineering lab prior to official enrollment to undergo intensive training in core wet-lab operations and downstream protein purification. Contributed to a low-cost purification project for thermostable carbonic anhydrases ($Ssp\text{CA}$ and $Saz\text{CA}$). Developed a **one-step thermal purification method** that achieved simultaneous cell lysis and host protein precipitation without prior sonication, which was presented at **BEST 2022**.
 *   **2011 | Bachelor of Science (China Medical University | College of Pharmacy):**  
     Graduated from the College of Pharmacy. This rigorous background in medicinal chemistry, biochemistry, and metabolic pathways serves as my strongest foundation for deeply understanding microbial physiology and complex biological systems.
