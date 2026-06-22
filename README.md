@@ -5,6 +5,44 @@ Dedicated to optimizing microbial fermentation processes through the integration
 
 ---
 
+## 📌 Featured Research Portfolios
+
+> 👋 **Welcome, BEST 2026 Attendees!** 
+> Explore how I bridge advanced Electrical Engineering (Neural Networks) architectures with hands-on, multi-scale Biotechnology (Fermentation) expertise:
+
+*   🧬 **[Master's Thesis Project | Fermentation Engineering]**  
+    **[Optimization of Carotenoid Production in *Rhodobacter sphaeroides*](https://github.com)**  
+    *5L Bioreactor, Real-time ORP Kinetic Monitoring, and Fed-batch Strategy.*  
+    👉 **[Click here to view 5L fermenter datasets and thesis abstract]**
+*   🧪 **[Foundational Wet-Lab Showcase | Pre-Master's Internship]**  
+    **[One-Step Purification of Thermostable Carbonic Anhydrases](https://github.com)**  
+    *Intensive training in core bioprocess techniques and protein purification (BEST 2022 Poster).*  
+    👉 **[Click here to view the thermal purification process and poster]**
+
+---
+
+## 🏆 My Academic Journey: From Pharmacy to Neural Networks
+
+I possess a complete cross-disciplinary scientific trajectory, spanning upstream biochemistry, midstream fermentation scale-up, downstream processing, and next-generation AI-driven bioprocess control:
+
+```text
+[2011 CMU Pharmacy] ──► [2021 Pre-Master] ──► [2022-2023 TTU Master] ──► [2025-Pres. PhD Co-Advised]
+ Upstream Bio-chem       Foundational Bio-tech   5L Bioreactor Scale-up    Bio-AI Cross-Domain Research
+ & Medicinal Foundation   & Wet-Lab Operations    & Real-time ORP Control   Real-world Industrial Impact
+```
+
+*   **⚡ 2025 - Present | PhD Candidate (Electrical Engineering | Co-Advised):**  
+    Co-advised by my **original Bioprocess Engineering advisor** and a **Professor of Electrical/Computer Engineering**. My research focuses on deploying deep learning (Transformer & GRU) architectures for high-precision time-series forecasting in bioprocesses. By converting multi-variable fermentation data into **3D Tensors**, I aim to construct robust Bioreactor Digital Twins that solve real-world industrial scaling issues and eliminate empirical trial-and-error.
+*   **🧬 2022 - 2024 | Master of Science (TTU Graduate Institute of Chemical Engineering & Biotechnology):**  
+    Specialized in process optimization for carotenoid production using *Rhodobacter sphaeroides*. Personally operated **5L industrial-grade bioreactors** and integrated an **Oxidation-Reduction Potential (ORP) electrode** for real-time kinetic monitoring. Successfully engineered a precise fed-batch strategy during metabolic phase transitions, achieving a 3.15-fold yield increase (reaching 26.6 mg/L).
+*   **🧪 2022 Summer | Pre-Master's Research Intern (Foundational Bioprocess Techniques):**  
+    Joined the Tatung University bio-engineering lab prior to official enrollment to undergo intensive training in core wet-lab operations and downstream protein purification. Contributed to a low-cost purification project for thermostable carbonic anhydrases ($Ssp\text{CA}$ and $Saz\text{CA}$). Developed a **one-step thermal purification method** that achieved simultaneous cell lysis and host protein precipitation without prior sonication, which was presented at **BEST 2022**.
+*   **💊 2011 | Bachelor of Science (China Medical University | College of Pharmacy):**  
+    Graduated from the College of Pharmacy. This rigorous background in medicinal chemistry, biochemistry, and metabolic pathways serves as my strongest foundation for deeply understanding microbial physiology and complex biological systems.
+
+---
+
+
 ## 🔬 Research Focus
 *   **Time-series Prediction:** Architecting Transformer and GRU-based models for high-precision prediction of complex fermentation trajectories.
 *   **Digital Twin:** Developing virtual representations of bioreactors to simulate metabolic shifts and optimize yield in real-time.
