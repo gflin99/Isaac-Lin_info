@@ -10,18 +10,18 @@ Dedicated to optimizing microbial fermentation processes through the integration
 > 👋 **Welcome, BEST 2026 Attendees!** 
 > Explore how I bridge advanced Electrical Engineering (Neural Networks) architectures with hands-on, multi-scale Biotechnology (Fermentation) expertise:
 
-*   🧬 **[Master's Thesis Project | Fermentation Engineering]**  
+*   **[Master's Thesis Project | Fermentation Engineering]**  
     **[Optimization of Carotenoid Production in *Rhodobacter sphaeroides*](https://github.com)**  
     *5L Bioreactor, Real-time ORP Kinetic Monitoring, and Fed-batch Strategy.*  
     👉 **[Click here to view 5L fermenter datasets and thesis abstract]**
-*   🧪 **[Foundational Wet-Lab Showcase | Pre-Master's Internship]**  
+*   **[Foundational Wet-Lab Showcase | Pre-Master's Internship]**  
     **[One-Step Purification of Thermostable Carbonic Anhydrases](https://github.com)**  
     *Intensive training in core bioprocess techniques and protein purification (BEST 2022 Poster).*  
     👉 **[Click here to view the thermal purification process and poster]**
 
 ---
 
-## 🏆 My Academic Journey: From Pharmacy to Neural Networks
+## 🏆 My Academic Journey:
 
 I possess a complete cross-disciplinary scientific trajectory, spanning upstream biochemistry, midstream fermentation scale-up, downstream processing, and next-generation AI-driven bioprocess control:
 
